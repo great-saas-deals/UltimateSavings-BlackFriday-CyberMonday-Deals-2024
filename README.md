@@ -62,6 +62,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |	[OK JSON](https://okjson.app/) | A scriptable JSON formatter for macOS. |50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29 |
 | 💰  | [RunJS](https://runjs.app/) |A playground for JavaScript and TypeScript  |30% OFF (automatically applied) until 30th November|
 | 🤑  | [DevUtils](https://devutils.com/) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura.	 |50% OFF with code BLACKFRIDAY_2023 |
+| 💵  | [kgrep](https://kgrep.com/) | Small search engine without the fluff. |10% OFF with code FRIYAY on Stripe |
 
 
 ## <a name="developer-tools"></a> ⚒️ Developer Tools
