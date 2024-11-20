@@ -62,6 +62,8 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |	[OK JSON](https://okjson.app/) | A scriptable JSON formatter for macOS. |50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29 |
 | 💰  | [RunJS](https://runjs.app/) |A playground for JavaScript and TypeScript  |30% OFF (automatically applied) until 30th November|
 | 🤑  | [DevUtils](https://devutils.com/) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura.	 |50% OFF with code BLACKFRIDAY_2023 |
+| 🎩  | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to LIFETIME **Only 10 licenses available** from Nov 20 - Nov 30 |
+| 🎩  | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to LIFETIME **Only 10 licenses available** from Nov 20 - Nov 30 |
 
 
 ## <a name="developer-tools"></a> ⚒️ Developer Tools
