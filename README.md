@@ -152,7 +152,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[Mail Mastery MEGA BUNDLE](https://unapologeticih.gumroad.com/l/nyzwb)  |250 customizable email templates covering every aspect of client communication with a range of 30+ essential business documents such as invoices, proposals, and client intake guides.	  |60% OFF. Lifetime Access and Updates. Coupon Code: 60OFFMM	|
 | 💰  |[PushAlert - Web Push Notifications](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=twf-nikhila)  | PushAlert is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app.	 |30% OFF on All Annual Plans. Coupon Code: Not Required	|
 | 🤑  |[	Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_nikhil)  | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more.	 |Enjoy a 50% discount. No code needed, the discount auto-applies at checkout.	|
-
+| 🔗 | [BacklinkMonitor - Backlink Management Tool](https://backlinkmonitor.com/) | Upgrade your link-building game and start tracking like a pro with BacklinkMonitor. | **30% OFF** on All Plans. Coupon Code: **BLACKFRIDAY30** 🎁 |
 
 ## <a name="other-software"></a> 💾 Other Software
 | Name | Description | Discount Code & Terms |
