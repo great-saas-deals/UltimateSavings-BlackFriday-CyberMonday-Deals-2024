@@ -160,6 +160,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[PlaylistAI](https://playlistai.app/)  |  Create Spotify and Apple Music playlists with AI	|Get 50% off by downloading the app|
 | 💰  |[SaaS Pricing Optimizer](https://ai-pricing.co/?ref=awesomebf)  |Give your pricing page link and receive 6 tailored optimizations to boost your SaaS profit.	  |Get 70% off with the code BLACKFRIDAY70, only valid until Nov 24.|
 | 🤑  |[AI Spend](https://aispend.io/?ref=ghawesomebf23)  |Keep track of your OpenAI usage and costs with AI Spend, and never be surprised again.	  |Enjoy 50% off with this discount code BLACKFRIDAY23|
+|  🛒 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** |
 
 
 ## <a name="places-to-list-your-black-friday-deals"></a> 🔖 Places to List Your Black Friday Deals
