@@ -99,6 +99,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 ## <a name="newsletters"></a> 📩 Newsletter & Communities
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
+| 🤑  | [BoringCashCow](https://boringcashcow.com/premium)  | access to proven business ideas that solving real problems and build your own profitable business. **30% off** membership forever with code **CLMVBG**.	|
 | 🤑  |[	SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr)  |✓ Airtable databases including details such as Description, URL, Member Count, Creator, Categories, Links & filterable categories include Startup, AI, Entrepreneurship, Solopreneur, Tech and more.	  |50% OFF. Lifetime Access and Updates. Coupon Code:50SUBSTACK	|
 | 💰  |[Readbetter.io](https://readbetter.io/)  | Readbetter lets you read your favorite newsletters and web articles on your Kindle! Automatically receive your Substacks & co. on Kindle instead of in your email inbox.	 |20% off all yearly plans with code BLACKFRIDAY|
 | 🤑  |[Leave Me Alone](https://leavemealone.com/)  |  Easily unsubscribe from emails. See all of your newsletters in one place and unsubscribe from them with a single click.	|40% OFF (automatically applied)|
