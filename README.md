@@ -62,6 +62,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |	[OK JSON](https://okjson.app/) | A scriptable JSON formatter for macOS. |50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29 |
 | 💰  | [RunJS](https://runjs.app/) |A playground for JavaScript and TypeScript  |30% OFF (automatically applied) until 30th November|
 | 🤑  | [DevUtils](https://devutils.com/) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura.	 |50% OFF with code BLACKFRIDAY_2023 |
+| 🤑  | [Tales.so](https://www.tales.so/) | Tales.so is an AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times.|75% OFF with code BFCM24 (Valid till December 20) |
 
 
 ## <a name="developer-tools"></a> ⚒️ Developer Tools
