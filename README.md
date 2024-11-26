@@ -110,6 +110,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[HelpKit.so](https://www.helpkit.so/)  | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.	 |35% OFF with code black_friday_23|
 | 💰  |[StatusPal](https://www.statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday23)  | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating.	 |30% OFF for 1 year with code AWESOME_BLACKFRIDAY until Nov. 29th|
 | 🤑  |[HR Kit](https://leoai.gumroad.com/l/human-resource-kit)  |Comprehensive HR solutions for small and medium business	  |50% OFF with BF50 from November 21st - 28th (limited spots)|
+| 💰  |[Lifelog](https://golifelog.com/?greatsaasdeals) |Write 100 word a day, every day. A writing community to develo a daily writing habit. |Use **BF2024** for 40% off for 12 months - |
 
 
 ## <a name="themes"></a> 🎨 Themes & Design Resources
@@ -118,6 +119,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[ElementsReady Addons For Elementor](https://quomodosoft.com/deals/)  |  ElementsReady Addons is an Ultimate Solution for Elementor user with 100+ Free and Premimum widgets and 1000+ ready presets and Elements	|Upto 80% discount! Starting at $49/Lifetime|
 | 💰  |[Gato GraphQL](https://gatographql.com/black-friday/)  |Interact with your data in WordPress: Bulk updates, Automation, Send notifications, Sync content, and more.	  |40% OFF the “All Extensions” Bundle|
 | 💰  |[Themify Themes](https://themify.me/blog/massive-black-friday-sale-2023?utm=github)  | Premium WordPress Themes & Plugins, each theme can be used on an unlimited number of websites.	 |Massive Black Friday & Cyber Monday Sale – Enjoy 40% OFF or $75 on LIFETIME!|
+| 💰  |[Lists Kit](https://listskit.com/?greatsaasdeals) |A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. |Use **BF2024** for 40% off |
 
 
 ## <a name="plugins"></a> 🔌 Plugins
@@ -126,6 +128,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 💰  |[Bit Form](https://bitapps.pro/black-friday-deals-2023/?utm=github)  | Bit Form is the Best Contact Form Builder for WordPress. Build Highly Customized Forms in the Fastest & Easiest way possible.	 |Flat 40% discount! Starting at $23.40/Year|
 | 💰  |[Essential Addons For Elementor](https://essential-addons.com/elementor/#pricing)  |The most popular Elementor widgets library for 1 million users, offering 90+ advanced elements.	  |Starting at $34, with up to a 40% discount!|
 | 💰  |[Coupon Affiliates for WooCommerce](https://couponaffiliates.com/)  |Easily create a coupon-based affiliate program for your WooCommerce site.	  |30% OFF with code BF2023|
+| 💰  |[Jason's Plugins For Carrd](https://plugins.carrd.co/?greatsaasdeals) |Plugins, widgets, scripts to power up your Carrd sites. |Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 ## <a name="standalone-scripts"></a> 🧬 Standalone Scripts
 | Name | Description | Discount Code & Terms |
