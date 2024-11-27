@@ -70,7 +70,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[Dotenv](https://dotenv.org/)  | Secrets for developers. Sync your .env files across machines, environments, and team members. |25% OFF forever with code BLACKFRIDAY_2023 Sign up and then email support@dotenv.org with the code. |
 | 💰  |[Tailscan](https://tailscan.com/)  |The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser.	  | 20% discount from 13th November until Cyber Monday (limited slots) |
 | 🤑  |[myJson](https://myjson.online/?ref=awesomebf2023)  |A RESTful API for flexible storage of JSON data.	  |50% discount for 100k credits BF2023|
-
+| 🔌 |[Terminalwire](https://terminalwire.com/black-friday?utm_source=gh-great-sass-deals) |Build command-line interfaces for web apps. Ship terminal applications 10× faster using your favorite web framework.| 25% off annual Terminalwire Pro Server with coupon code BF24|
 
 ## <a name="books"></a> 📚 Books
 | Name | Description | Discount Code & Terms |
@@ -102,6 +102,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[	SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr)  |✓ Airtable databases including details such as Description, URL, Member Count, Creator, Categories, Links & filterable categories include Startup, AI, Entrepreneurship, Solopreneur, Tech and more.	  |50% OFF. Lifetime Access and Updates. Coupon Code:50SUBSTACK	|
 | 💰  |[Readbetter.io](https://readbetter.io/)  | Readbetter lets you read your favorite newsletters and web articles on your Kindle! Automatically receive your Substacks & co. on Kindle instead of in your email inbox.	 |20% off all yearly plans with code BLACKFRIDAY|
 | 🤑  |[Leave Me Alone](https://leavemealone.com/)  |  Easily unsubscribe from emails. See all of your newsletters in one place and unsubscribe from them with a single click.	|40% OFF (automatically applied)|
+| 📰 |[LegibleNews](https://legiblenews.com/black-friday?utm_source=gh-great-sass-deals) | Minimalist news pubished once daily with no ads, no hyperbole, no nonsense delivered daily or weekly to your inbox. |25% off annual LegibleNews Pro with coupon code BF24|
 
 
 ## <a name="saas-software"></a> ♻️ SaaS Software
@@ -110,7 +111,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[HelpKit.so](https://www.helpkit.so/)  | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.	 |35% OFF with code black_friday_23|
 | 💰  |[StatusPal](https://www.statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday23)  | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating.	 |30% OFF for 1 year with code AWESOME_BLACKFRIDAY until Nov. 29th|
 | 🤑  |[HR Kit](https://leoai.gumroad.com/l/human-resource-kit)  |Comprehensive HR solutions for small and medium business	  |50% OFF with BF50 from November 21st - 28th (limited spots)|
-
+| ⚡️ |[TinyZap](https://tinyzap.com/black-friday?utm_source=gh-great-sass-deals) |TinyZap improves click-through rates 📈 for links shared on Twitter, LinkedIn, Facebook, and social posts with automatically generated webpage screenshots. 💅 | 50% off annual subscription with coupon code BF24 |
 
 ## <a name="themes"></a> 🎨 Themes & Design Resources
 | Name | Description | Discount Code & Terms |
@@ -160,6 +161,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[PlaylistAI](https://playlistai.app/)  |  Create Spotify and Apple Music playlists with AI	|Get 50% off by downloading the app|
 | 💰  |[SaaS Pricing Optimizer](https://ai-pricing.co/?ref=awesomebf)  |Give your pricing page link and receive 6 tailored optimizations to boost your SaaS profit.	  |Get 70% off with the code BLACKFRIDAY70, only valid until Nov 24.|
 | 🤑  |[AI Spend](https://aispend.io/?ref=ghawesomebf23)  |Keep track of your OpenAI usage and costs with AI Spend, and never be surprised again.	  |Enjoy 50% off with this discount code BLACKFRIDAY23|
+| 🧸  |[Thingybase](https://thingybase.com/black-friday?utm_source=gh-great-sass-deals)  | Organize, track, and treasure your stuff with this searchable database of your home or business inventory. | 50% off annual plan with coupon code BF24 |
 
 
 ## <a name="places-to-list-your-black-friday-deals"></a> 🔖 Places to List Your Black Friday Deals
