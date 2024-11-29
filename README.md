@@ -110,6 +110,8 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[HelpKit.so](https://www.helpkit.so/)  | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.	 |35% OFF with code black_friday_23|
 | 💰  |[StatusPal](https://www.statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday23)  | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating.	 |30% OFF for 1 year with code AWESOME_BLACKFRIDAY until Nov. 29th|
 | 🤑  |[HR Kit](https://leoai.gumroad.com/l/human-resource-kit)  |Comprehensive HR solutions for small and medium business	  |50% OFF with BF50 from November 21st - 28th (limited spots)|
+| 💰 | [Hypefury](https://hypefury.com/black-friday-2024) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online. 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade|
+| 💰 | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter. 40% off any yearly plan with code **BLACKFRIDAY_2024** |
 
 
 ## <a name="themes"></a> 🎨 Themes & Design Resources
