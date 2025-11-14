@@ -94,6 +94,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[🧲 Building and Selling AI Startups](https://code4startup.com/black_friday/)  |Mega discount for the Bundle of AI Premium Series	  | 90 % discount from now until Cyber Monday. |
 | 💰  |[	How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas)  | 25+ hours of video content teaching you everything you need to build a SaaS product. From authentication, design and payments to security and more.	 |30 % OFF from Black Friday until Cyber Monday with code BLACKFRIDAY23|
 | 🤑  |[JavaScript Fundamentals in Visual Studio Code](https://store.coderslang.com/l/beginner-js/BF23)  | Gain mastery over JavaScript variables, types, functions, loops, objects, arrays, exceptions and more, as we lay the groundwork for your journey into dynamic web development. No fluff, just actionable knowledge to propel your skills forward.	 | 70% DISCOUNT with the code BF23|
+| 🤑  |[Product Hunt Workbook)  | A Proven Blueprint to launch your SaaS on top of Product Hunt. Steal the secret launch strategies of 20+ successful SaaS founders, 60+ Done for you post templates, and 70+ communities to get support on your launch day | 60% DISCOUNT with the code BF60|
 
 
 ## <a name="newsletters"></a> 📩 Newsletter & Communities
