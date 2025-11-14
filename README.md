@@ -70,7 +70,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[Dotenv](https://dotenv.org/)  | Secrets for developers. Sync your .env files across machines, environments, and team members. |25% OFF forever with code BLACKFRIDAY_2023 Sign up and then email support@dotenv.org with the code. |
 | 💰  |[Tailscan](https://tailscan.com/)  |The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser.	  | 20% discount from 13th November until Cyber Monday (limited slots) |
 | 🤑  |[myJson](https://myjson.online/?ref=awesomebf2023)  |A RESTful API for flexible storage of JSON data.	  |50% discount for 100k credits BF2023|
-| 🛠️  |[Aba Search and Replace](https://www.abareplace.com) | A multipurpose tool for fast, safe text updates across multiple files and data conversions (Base64, URL encoding, HTML entities, timestamps, and JWT tokens). Built for developers, testers, and analysts.|30% discount with coupon code: Sale2025|
+| 💰  |[Aba Search and Replace](https://www.abareplace.com) | A multipurpose tool for fast, safe text updates across multiple files and data conversions (Base64, URL encoding, HTML entities, timestamps, and JWT tokens). Built for developers, testers, and analysts.|30% discount with coupon code: Sale2025|
 
 
 ## <a name="books"></a> 📚 Books
