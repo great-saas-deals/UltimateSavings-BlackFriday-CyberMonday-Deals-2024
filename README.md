@@ -138,6 +138,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[BoltAI](https://boltai.com/?ref=awesomebf)  | Native ChatGPT app for Mac. It allows entrepreneurs, developers, marketers, students, and anyone else to integrate AI assistance into their daily tasks. It is designed to enhance productivity across a wide range of professions, from writing and development to management and entrepreneurship	 |Enjoy 53% off with this discount code AWESOMEBF2023|
 | 💰  |[ChatTab](https://chattab.app/)  |A ChatGPT Mac App Designed for Minimalists	  |30% OFF if you use Y2NTY3MW from 23th November until November 28th|
 | 🤑  |[	GasbyAI](https://gasbyai.com/)  |Fancy AI Assistant - Work with URL/Docs/Audio/Video, generate images, 600+ Prompts, 100+ AI Characters. Support OpenAI, Azure Openai, Claude, OpenRouter and Custom API services	  |Use BF23 to get 40% off for all licenses, 20% off for all plans|
+| 💰  |[SEOengine.ai](https://seoengine.ai)  |SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow.	  |35% OFF with code BLACKFRIDAY (Nov 17 - Dec 7)|
 
 ## <a name="marketplaces"></a> 🛒 Marketplaces
 | Name | Description | Discount Code & Terms |
