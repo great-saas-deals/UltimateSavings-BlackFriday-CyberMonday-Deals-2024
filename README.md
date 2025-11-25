@@ -138,6 +138,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | 🤑  |[BoltAI](https://boltai.com/?ref=awesomebf)  | Native ChatGPT app for Mac. It allows entrepreneurs, developers, marketers, students, and anyone else to integrate AI assistance into their daily tasks. It is designed to enhance productivity across a wide range of professions, from writing and development to management and entrepreneurship	 |Enjoy 53% off with this discount code AWESOMEBF2023|
 | 💰  |[ChatTab](https://chattab.app/)  |A ChatGPT Mac App Designed for Minimalists	  |30% OFF if you use Y2NTY3MW from 23th November until November 28th|
 | 🤑  |[	GasbyAI](https://gasbyai.com/)  |Fancy AI Assistant - Work with URL/Docs/Audio/Video, generate images, 600+ Prompts, 100+ AI Characters. Support OpenAI, Azure Openai, Claude, OpenRouter and Custom API services	  |Use BF23 to get 40% off for all licenses, 20% off for all plans|
+| 🤑 | [Backona AI](https://backona.com/?utm_source=ultimate-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
 
 ## <a name="marketplaces"></a> 🛒 Marketplaces
 | Name | Description | Discount Code & Terms |
